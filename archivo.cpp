@@ -7,5 +7,6 @@ int length;
 scanf("%i", &length);
 int office = pow(2,length);
 printf("%i",office);
+print("false");
 return 0;
 }
